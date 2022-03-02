@@ -1,0 +1,8 @@
+C:\Users\Sanjesh Santhosh\source\repos\Delecates\Delecates\bin\Debug\Delecates.exe.config
+C:\Users\Sanjesh Santhosh\source\repos\Delecates\Delecates\bin\Debug\Delecates.exe
+C:\Users\Sanjesh Santhosh\source\repos\Delecates\Delecates\bin\Debug\Delecates.pdb
+C:\Users\Sanjesh Santhosh\source\repos\Delecates\Delecates\obj\Debug\Delecates.csproj.AssemblyReference.cache
+C:\Users\Sanjesh Santhosh\source\repos\Delecates\Delecates\obj\Debug\Delecates.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sanjesh Santhosh\source\repos\Delecates\Delecates\obj\Debug\Delecates.csproj.CoreCompileInputs.cache
+C:\Users\Sanjesh Santhosh\source\repos\Delecates\Delecates\obj\Debug\Delecates.exe
+C:\Users\Sanjesh Santhosh\source\repos\Delecates\Delecates\obj\Debug\Delecates.pdb
